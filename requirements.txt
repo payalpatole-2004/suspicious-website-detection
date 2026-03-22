@@ -1,1 +1,22 @@
+🛠️ Libraries Used
+pandas
+Used for data manipulation and analysis (handling datasets, cleaning data).
+numpy
+Used for numerical computations and working with arrays.
+scikit-learn
+Provides machine learning algorithms for training and evaluating the model.
+matplotlib
+Used for data visualization such as graphs and plots.
+▶️ How to Install Dependencies
 
+Run the following command in terminal:
+
+pip install -r requirements.txt
+
+This command will automatically install all required libraries.
+
+🚀 Example requirements.txt
+pandas
+numpy
+scikit-learn
+matplotlib
